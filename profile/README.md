@@ -16,5 +16,3 @@ ResonanceMetrics combines technical GEO audits and AI answer tracking for e-comm
 - Blog: https://www.resonancemetrics.com/en/blog
 - X: https://x.com/ResonanceMetrix
 - LinkedIn: https://linkedin.com/company/resonancemetrics
-
-Built in Paris by David Raux and Antoine Heftler.
